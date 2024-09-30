@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Massambaagro
 - 👀 I’m interested in Data science related to biology ang agronomy
-- 🌱 I’m currently learning everything can that help me become increasingly efficient
+- 🌱 I’m currently learning everything that can help me become increasingly efficient
 - 💞️ I’m looking to collaborate on Statistics, machine learning, data visualisation, data science tools, Agronomy
 - 📫 Join me: massambaagro@gmail.com
 - 😄 Pronouns: Masshooo
